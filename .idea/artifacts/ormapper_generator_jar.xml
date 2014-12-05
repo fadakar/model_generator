@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ormapper_generator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ormapper_generator_jar</output-path>
+    <root id="archive" name="ormapper_generator.jar">
+      <element id="module-output" name="ormapper_generator" />
+      <element id="extracted-dir" path="/data/projects/java/Libraries/mysql-connector-java-5.1.33/mysql-connector-java-5.1.33-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
